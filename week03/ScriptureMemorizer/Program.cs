@@ -32,5 +32,6 @@ class Program
         Console.WriteLine(scripture.GetDisplayText());
         Console.WriteLine();
         Console.WriteLine("All words are hidden. Program finished.");
+        
     }
 }
